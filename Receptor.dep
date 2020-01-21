@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>853105136</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.o</file>
+            <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC.__cstat.et</file>
+            <file>$PROJ_DIR$\SSD1306.h</file>
+            <file>$TOOLKIT_DIR$\inc\eeprom.h</file>
+            <file>$TOOLKIT_DIR$\inc\ADC.h</file>
+            <file>$TOOLKIT_DIR$\inc\I2C.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\ClockSys.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DataType.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ookrxtx.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\Extevents.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Tim4.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Transmisor2.0\eeprom.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ookrxtx.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ookrxtx.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ClockSys.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\AWU.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\I2C.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\ADC.h</file>
+            <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\Tim4.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\I2C.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\Tim4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Receptor.pbd</file>
+            <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\eeprom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\I2C.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Extevents.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SSD1306.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\Receptor.out</file>
+            <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ClockSys.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\ookrxtx.h</file>
+            <file>$PROJ_DIR$\Debug\List\Receptor.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\Extevents.__cstat.et</file>
+            <file>$PROJ_DIR$\ookrxtx.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SSD1306.__cstat.et</file>
+            <file>$PROJ_DIR$\ClockSys.c</file>
+            <file>$PROJ_DIR$\Extevents.c</file>
+            <file>$PROJ_DIR$\AWU.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\I2C.c</file>
+            <file>$PROJ_DIR$\SSD1306.c</file>
+            <file>$PROJ_DIR$\ADC.c</file>
+            <file>$PROJ_DIR$\eeprom.c</file>
+            <file>$PROJ_DIR$\Tim4.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\AWU.o</file>
+            <file>$TOOLKIT_DIR$\inc\ClockSys.h</file>
+            <file>$TOOLKIT_DIR$\inc\fonts.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Extevents.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SSD1306.o</file>
+            <file>$TOOLKIT_DIR$\inc\iostm8s003k3.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC.pbi</file>
+            <file>$TOOLKIT_DIR$\config\lnkstm8s003k3.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\ClockSys.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\I2C.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\fonts.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\AWU.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\Tim4.h</file>
+            <file>$TOOLKIT_DIR$\inc\Extevents.h</file>
+            <file>$TOOLKIT_DIR$\inc\DataType.h</file>
+            <file>$TOOLKIT_DIR$\inc\dydlogo.h</file>
+            <file>$TOOLKIT_DIR$\inc\AWU.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\dydlogo.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC.o</file>
+            <file>$TOOLKIT_DIR$\inc\ookrxtx.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Tim4.o</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\Transmisor2.0\eeprom.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 32 62 38 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 38 32 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 37 41</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Receptor.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 64 78 56 8 0 35 33 30 15 61 80 1 22</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ookrxtx.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 79 62 38 68 74 73 4 72 76 3 17 60 44 67 28 31 26 10 66 6 58 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 3 12 9 25 68 77 66 60 26 10 32 19 38 24 44 40 17 70 67 28 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ClockSys.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 57 62 38 68 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 38 65 68 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Extevents.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 73 74 62 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 9 38 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\AWU.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 76 62 38 68 74 73 79</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 9 62 68 12 19 40</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 62 38 17 60 44 67 28 31 26 10 66 57 68 74 79 73 5 6 3 58 75 72 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 68 3 73 79 60 44 6 57 5 74 17 38 66 26 10 62 75 72 67 28 31 58 4</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\I2C.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 6 62 38 68 73 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9 68 38 62 12 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\SSD1306.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 3 62 38 68 17 60 44 67 28 31 26 10 66 74 73 6 58 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60 9 66 77 26 31 68 24 62 17 12 70 38 28 44 3 67 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ADC.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 62 38 5 68 74 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 62 21 9 68 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\eeprom.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 4 62 38 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 38 32 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Tim4.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 72 62 38 68 74 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 9 62 68 12 25</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
